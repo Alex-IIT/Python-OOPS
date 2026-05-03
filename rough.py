@@ -4,9 +4,12 @@ my_int=206
 
 # print(type(my_int))
 # lst.capitalize()
-my_str=my_str.capitalize()
-print(my_str)
+# my_str=my_str.capitalize()
+# print(my_str)
 
-a="x"
-b="y"
-print(a+b)
+# a="x"
+# b="y"
+# print(a+b)
+
+from Oops_project import chatbook
+user1=chatbook()
