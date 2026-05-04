@@ -26,4 +26,3 @@
                            2.Multi-level Inheritance
                            3.Hierarchial Inheritance
                            4.Multiple Inheritance
-
