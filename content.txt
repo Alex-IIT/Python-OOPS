@@ -8,3 +8,21 @@
     > Code reusability
     > Debugging
     > Easy to colab
+5. End to end project(Chatbook)
+    > function vs methods
+    > magic /dunder methods
+    > self - Represents a specific instance of an of the class(Reference to current class instance). Allows us to access attributes and methods of that particular object within the class definition.
+
+    > encapsulation
+    > getter setter
+    > static method
+6. Inheritance
+    > Code example
+    > Need of Inheritance
+    > Constructor and method overloading
+    > Super Keyword
+
+    > Types of Inheritance 1.Single Inheritance
+                           2.Multi-level Inheritance
+                           3.Hierarchial Inheritance
+                           4.Multiple Inheritance
